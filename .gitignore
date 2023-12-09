@@ -5,6 +5,9 @@
 *.tfstate
 *.tfstate.*
 
+#.out files
+*.out
+
 # Crash log files
 crash.log
 crash.*.log
